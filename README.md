@@ -4,7 +4,7 @@
 
 Despues de realizar cada tarea deberas crear un commit con descripcion especificando la tarea que se realizo, por ejemplo, "Tarea 1 completada"
 
-1. TareasKusaClona el Repositorio en tu maquina
+1. TareasKusa -> Clona el Repositorio en tu maquina
 2. Crear una rama con tu nombre
 3. Cambiate a esa rama antes de empezar a realizar tus tareas
 
@@ -13,7 +13,7 @@ Despues de realizar cada tarea deberas crear un commit con descripcion especific
 Desarrollar una tabla de multiplicar dentro de la carpeta "Tarea 1" que tambien tiene un ejemplo simple de como se deberia ver.
 
 - el input solo puede recibir numeros enteros positivos.
-- dando click al boton de calcular debera mostrar la tabla de multiplicar hasta el 10 y tambien debera motrar una tabla de multiplicar que itere de 10 en 10 hasta el 100.
+- dando click al boton de calcular debera mostrar la tabla de multiplicar hasta el 10 y tambien debera mostrar una tabla de multiplicar que itere de 10 en 10 hasta el 100.
 - dado el array [13,245,133,45,52,126, 29] ordenarlo de mayor a menor eh imprimirlo en un div con el id="array_numeros_ordenado".
 - dado el array ["pedro","juan","antonio","maria","zulema","nelson", "manuel"] ordenarlo de forma alfabetica eh imprimirlo en un div con el id="array_palabras_ordenado".
 
@@ -36,4 +36,4 @@ Desarrollar una tabla de multiplicar dentro de la carpeta "Tarea 1" que tambien 
 - Publicar post. - El usuario podrá publicar uno o más post, al publicar se le pedirá un título del post (el usuario no podrá publicar un post con el mismo título más tarde, pero otra persona si puede publicar un post con el título que una persona ya publico anteriormente), descripcion , y una imagen (solo que acepta jpg, png y webp).(Debe ser un metodo POST que te devuelva el Titulo, Descripcion, Imagen que se guardaron, solo a los que tienen token de sesion activo).
 - mostrar todas las publicaciones ( Debe ser un metodo GET que te devuelva todos los post creados, solo a los que tienen token de sesion activo);
 
-### NestJS es un entorno que esta orientado al desarrollo de API, bastaria para completar tener las url que devuelvan la informacion necesaria a traves de postman. De forma opcional podria crearce una interfaz de usuario para interactuar con las url.
+### NestJS es un entorno que esta orientado al desarrollo de API, bastaria para completar tener las url que devuelvan la informacion necesaria a traves de postman. De forma opcional podria crearse una interfaz de usuario para interactuar con las url.
